@@ -1,11 +1,11 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sayantansen123.Sayantansen123" />
+<img align="right" src="https://komarev.com/ghpvc/?username=sayantansen123&label=Profile%20views&color=0e75b6&style=flat"  />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sayantan+Sen!;" />
 </h1>
 <h3 align="center">A passionate full stack developer........</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantansen123&label=Profile%20views&color=0e75b6&style=flat" alt="sayantansen123" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/@sayantansen0709" target="blank"><img src="https://img.shields.io/twitter/follow/@sayantansen0709?logo=twitter&style=for-the-badge" alt="@sayantansen0709" /></a> </p>
 
