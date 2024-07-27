@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/@sayantansen0709" target="blank"><img src="https://img.shields.io/twitter/follow/@sayantansen0709?logo=twitter&style=for-the-badge" alt="@sayantansen0709" /></a> </p>
+<div align="center">
 
 - 🔭 I’m currently working on **Ecommerce App🛒**
 
@@ -18,6 +18,8 @@
 - 💬 Ask me about **JS,React,Java,Flutter,Express**
 
 - 📫 How to reach me **riosayan123@gmail.com**
+
+  </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
