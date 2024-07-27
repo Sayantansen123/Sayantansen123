@@ -3,23 +3,21 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sayantan+Sen!;" />
 </h1>
-<h3 align="center">A passionate full stack developer........</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
-
+<br/>
 
 <div align="center">
+ 
+ 🔭 I’m currently working on **a ecommerce app**
+ 
+ 🌱 I’m currently learning **Docker, Next.js, BlockChain**
 
-- 🔭 I’m currently working on **Ecommerce App🛒**
+💬 Ask me about **Node.js, React, Javascript... or anything**
 
-- 🌱 I’m currently learning **Next.js,BlockChain**
+⚡ Fun fact **The Universe's average colour is called 'Cosmic latte'**
 
-- 🤝 I’m looking for help with **Solidity,Next.js**
-
-- 💬 Ask me about **JS,React,Java,Flutter,Express**
-
-- 📫 How to reach me **riosayan123@gmail.com**
-
-  </div>
+ </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
