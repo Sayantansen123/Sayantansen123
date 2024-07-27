@@ -27,6 +27,8 @@
 <a href="https://www.leetcode.com/sayantansen0709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sayantansen0709" height="30" width="40" /></a>
 </p>
 
+ <hr/>
+ 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -35,7 +37,8 @@
 </div>
 
 <br/>
-
+ <hr/>
+ 
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayantansen123&show_icons=true&locale=en" alt="sayantansen123" /></p>
