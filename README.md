@@ -40,9 +40,17 @@
 <br/>
  <hr/>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayantansen123&show_icons=true&locale=en&layout=compact" alt="sayantansen123" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayantansen123&show_icons=true&locale=en" alt="sayantansen123" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayantansen123&show_icons=true&locale=en&layout=compact" alt="sayantansen123" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayantansen123&" alt="sayantansen123" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sayantansen123&" alt="sayantansen123" /></p>
 
-![snake gif](https://github.com/Sayantansen123/Sayantansen123/blob/output/github-snake-dark.svg)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sayantansen123&show_icons=true&locale=en" alt="sayantansen123" /> </p>
+
+
+
+
+
+<div align="center">
+ <img alt="github-snake" src="https://github.com/Sayantansen123/Sayantansen123/blob/output/github-snake-dark.svg" />
+</div>
