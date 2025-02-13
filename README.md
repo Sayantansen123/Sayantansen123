@@ -45,7 +45,7 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sayantansen123&" alt="sayantansen123" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sayantansen123&show_icons=true&locale=en" alt="sayantansen123" /> </p>
+
 
 
 
