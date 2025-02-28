@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **a ecommerce app**
  
- 🌱 I’m currently learning **Docker, Next.js, BlockChain**
+ 🌱 I’m currently learning **Docker, GoLang**
 
 💬 Ask me about **Node.js, React, Javascript... or anything**
 
