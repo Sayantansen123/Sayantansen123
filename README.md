@@ -41,11 +41,10 @@
  <hr/>
 
 
+![](https://nirzak-streak-stats.vercel.app/?user=Sayantansen123&theme=dark&hide_border=false)
+&nbsp; &nbsp; &nbsp;![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantansen123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Sayantansen123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayantansen123&show_icons=true&locale=en&layout=compact" alt="sayantansen123" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayantansen123&show_icons=true&locale=en" alt="sayantansen123" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayantansen123&" alt="sayantansen123" /></p>
 
 
 
@@ -57,3 +56,10 @@
 <div align="center">
  <img alt="github-snake" src="https://github.com/Sayantansen123/Sayantansen123/blob/output/github-snake-dark.svg" />
 </div>
+
+
+
+
+
+
+
